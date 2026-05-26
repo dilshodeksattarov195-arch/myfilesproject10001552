@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configserify",
+        "uuid": 405072,
+        "checksum": "808qi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
